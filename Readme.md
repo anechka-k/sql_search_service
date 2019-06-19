@@ -1,0 +1,1 @@
+HTTP service which allows SQL database (MySQL) search functionality for Telegram bot.
